@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32228.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Usace.Cwms", "CwmsDataApi\Usace.Cwms.csproj", "{88BA89CF-DB0B-4A5A-ADDF-AF2035A1306E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCDA", "..\TestCDA\TestCDA.csproj", "{48E2D3F5-D581-4308-9852-548DEA824633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88BA89CF-DB0B-4A5A-ADDF-AF2035A1306E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88BA89CF-DB0B-4A5A-ADDF-AF2035A1306E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88BA89CF-DB0B-4A5A-ADDF-AF2035A1306E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88BA89CF-DB0B-4A5A-ADDF-AF2035A1306E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48E2D3F5-D581-4308-9852-548DEA824633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E2D3F5-D581-4308-9852-548DEA824633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E2D3F5-D581-4308-9852-548DEA824633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E2D3F5-D581-4308-9852-548DEA824633}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EA6C9B4-98CA-4BB6-A841-9C67D01FEFBF}
+	EndGlobalSection
+EndGlobal
